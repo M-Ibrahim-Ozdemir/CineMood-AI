@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMoodAI.Domain", "CineMoodAI.Domain\CineMoodAI.Domain.csproj", "{06AC42B6-F20C-4DFD-9F6B-D43F9565BA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMoodAI.Aplication", "CineMoodAI.Aplication\CineMoodAI.Aplication.csproj", "{22CDDCA4-2C35-4257-9770-42027212C5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMoodAI.Infrastructure", "CineMoodAI.Infrastructure\CineMoodAI.Infrastructure.csproj", "{C62C5048-344B-4FF4-90F3-8127945CA67F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMoodAI.WebAPI", "CineMoodAI.WebAPI\CineMoodAI.WebAPI.csproj", "{C9205404-53B2-BC98-F40A-69F12CBBD5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMoodAI.Domain.AppHost", "CineMoodAI.Domain.AppHost\CineMoodAI.Domain.AppHost.csproj", "{C07CB469-C2F1-4260-BB81-6F077DF09F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMoodAI.Domain.ServiceDefaults", "CineMoodAI.Domain.ServiceDefaults\CineMoodAI.Domain.ServiceDefaults.csproj", "{632CA5E1-1A35-2D5E-E544-940E15459760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AC42B6-F20C-4DFD-9F6B-D43F9565BA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AC42B6-F20C-4DFD-9F6B-D43F9565BA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AC42B6-F20C-4DFD-9F6B-D43F9565BA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AC42B6-F20C-4DFD-9F6B-D43F9565BA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CDDCA4-2C35-4257-9770-42027212C5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CDDCA4-2C35-4257-9770-42027212C5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CDDCA4-2C35-4257-9770-42027212C5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CDDCA4-2C35-4257-9770-42027212C5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62C5048-344B-4FF4-90F3-8127945CA67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62C5048-344B-4FF4-90F3-8127945CA67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62C5048-344B-4FF4-90F3-8127945CA67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62C5048-344B-4FF4-90F3-8127945CA67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9205404-53B2-BC98-F40A-69F12CBBD5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9205404-53B2-BC98-F40A-69F12CBBD5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9205404-53B2-BC98-F40A-69F12CBBD5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9205404-53B2-BC98-F40A-69F12CBBD5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07CB469-C2F1-4260-BB81-6F077DF09F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07CB469-C2F1-4260-BB81-6F077DF09F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07CB469-C2F1-4260-BB81-6F077DF09F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07CB469-C2F1-4260-BB81-6F077DF09F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632CA5E1-1A35-2D5E-E544-940E15459760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632CA5E1-1A35-2D5E-E544-940E15459760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632CA5E1-1A35-2D5E-E544-940E15459760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632CA5E1-1A35-2D5E-E544-940E15459760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D6C4EA-F1FA-4AAF-9F2C-47032FB3CD3F}
+	EndGlobalSection
+EndGlobal
